@@ -1,7 +1,4 @@
-# Basit Cpanel Hata Sayfaları
-
 # İnfo
-
 
 - Sayfalar benim tarafımdan yazılmamıştır sadece ufak bir edit yapılmıştır.
 - Fakat görüntü ve sadelik konusundan yana hoş ve göze hitap etmektedir sizinle de paylaşmak.
