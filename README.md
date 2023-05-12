@@ -1,4 +1,4 @@
-# Basit Cpanel Hata sayfaları..
+# Basit Cpanel Hata Sayfaları
 
 # İnfo
 
