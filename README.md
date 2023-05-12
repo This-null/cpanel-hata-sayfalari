@@ -12,6 +12,15 @@
 
 ![image](https://github.com/This-null/cpanel-hata-sayfalari/assets/60463845/c2cb4f6d-58a5-4ff4-b11a-e6c1c65b2786)
 
+# Nasıl Uygularım?
+
+![image](https://github.com/This-null/cpanel-hata-sayfalari/assets/60463845/642a73d0-207c-4fcb-b97c-3900ef4052f2)
+![image](https://github.com/This-null/cpanel-hata-sayfalari/assets/60463845/6f98e0ae-8926-4863-b463-21db49222e28)
+![image](https://github.com/This-null/cpanel-hata-sayfalari/assets/60463845/21b07dc7-d038-46cb-aed2-1be5ef05cb81)
+![image](https://github.com/This-null/cpanel-hata-sayfalari/assets/60463845/ed169a2a-58c8-4efa-8a6b-26ad3828e121)
+
+
+
 
 # Örnek Resimler
 
